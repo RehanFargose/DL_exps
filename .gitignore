@@ -5,6 +5,10 @@ __pycache__/
 
 # Extra folder to remove
 DL3old/
+DL9/glove.6B.50d.txt
+DL9/glove.6B.zip
+DL12/recording.wav
+DL12/rehan_recording.wav
 
 # C extensions
 *.so
